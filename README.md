@@ -29,37 +29,37 @@ Promises provide a simpler alternative for executing, composing, and managing as
 ## Specifications
 
 ### Day 1 & 2
-- [ ] Complete the [Promises Course](https://www.udacity.com/course/javascript-promises--ud898) on Udacity
+- [x] Complete the [Promises Course](https://www.udacity.com/course/javascript-promises--ud898) on Udacity
 
 ### Day 3 & 4
-- [ ] Exercises 1-13 in the promise-it-wont-hurt-solutions are complete and written to the appropriate file:
-  - [ ] `src/01-warmup.js`
-  - [ ] `src/02-fullfill-a-promise.js`
-  - [ ] `src/03-reject-a-promise.js`
-  - [ ] `src/04-to-reject-or-not-to-reject.js`
-  - [ ] `src/05-always-asynchronous.js`
-  - [ ] `src/06-shortcuts.js`
-  - [ ] `src/07-promise-after-promise.js`
-  - [ ] `src/08-values-and-promises.js`
-  - [ ] `src/09-throw-an-error.js`
-  - [ ] `src/10-an-important-file.js`
-  - [ ] `src/11-multiple-promises.js`
-  - [ ] `src/12-fetch-json.js`
-  - [ ] `src/13-do-some-work.js`
+- [x] Exercises 1-13 in the promise-it-wont-hurt-solutions are complete and written to the appropriate file:
+  - [x] `src/01-warmup.js`
+  - [x] `src/02-fullfill-a-promise.js`
+  - [x] `src/03-reject-a-promise.js`
+  - [x] `src/04-to-reject-or-not-to-reject.js`
+  - [x] `src/05-always-asynchronous.js`
+  - [x] `src/06-shortcuts.js`
+  - [x] `src/07-promise-after-promise.js`
+  - [x] `src/08-values-and-promises.js`
+  - [x] `src/09-throw-an-error.js`
+  - [x] `src/10-an-important-file.js`
+  - [x] `src/11-multiple-promises.js`
+  - [x] `src/12-fetch-json.js`
+  - [x] `src/13-do-some-work.js`
 
 ### Day 5
-- [ ] Look at the [documentation](https://github.com/vitaly-t/pg-promise/wiki/Learn-by-Example) of the `pg-promise` repository
-- [ ] Exercises 1-7 in the pg promise exercises are complete
-  - [ ] Exercise 1
-  - [ ] Exercise 2
-  - [ ] Exercise 3
-  - [ ] Exercise 4
-  - [ ] Exercise 5
-  - [ ] Exercise 6
-  - [ ] Exercise 7
+- [x] Look at the [documentation](https://github.com/vitaly-t/pg-promise/wiki/Learn-by-Example) of the `pg-promise` repository
+- [x] Exercises 1-7 in the pg promise exercises are complete
+  - [x] Exercise 1
+  - [x] Exercise 2
+  - [x] Exercise 3
+  - [x] Exercise 4
+  - [x] Exercise 5
+  - [x] Exercise 6
+  - [x] Exercise 7
 
 ### Stretch
-- [ ] Read Google's [Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) to Promises
+- [x] Read Google's [Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) to Promises
 
 ## Quality Rubric
 **Well formatted code**
